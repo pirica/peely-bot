@@ -1,0 +1,278 @@
+{
+  "channels": {
+    "standalone-store": {
+      "states": [
+        {
+          "validFrom": "2020-08-09T14:07:03Z",
+          "activeEvents": [],
+          "state": {
+            "activePurchaseLimitingEventIds": [],
+            "storefront": {},
+            "storeEnd": "0001-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "cacheExpire": "2020-08-09T16:07:03Z"
+    },
+    "client-matchmaking": {
+      "states": [
+        {
+          "validFrom": "2020-08-09T14:07:03Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2020-08-09T15:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Bots_DefaultDuo"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "validFrom": "2020-08-09T16:00:00Z",
+          "activeEvents": [],
+          "state": {
+            "region": {
+              "OCE": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo"
+                ]
+              },
+              "CN": {
+                "eventFlagsForcedOff": [
+                  "Playlist_DefaultDuo",
+                  "Playlist_Bots_DefaultDuo",
+                  "Playlist_Deimos_DuoCN"
+                ]
+              },
+              "REGIONID": {
+                "eventFlagsForcedOff": [
+                  "Playlist_Deimos_Duo_WinterCN"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "cacheExpire": "2020-08-09T16:07:03Z"
+    },
+    "tk": {
+      "states": [
+        {
+          "validFrom": "2020-08-09T14:07:03Z",
+          "activeEvents": [],
+          "state": {
+            "k": [
+              "5A33986E8C23E664BD8A70D41697A93F:nFqFG2z7mnQhf4Q3iR6zQ2eWykiuwy0af+ga9QWnU6o=",
+              "1D02A6E14FDF53655E818CEF9E57B1BF:ekG/6DFEYOaCYi5hruGoY/o1KzC/O5+9hJbdMyti8Gk="
+            ]
+          }
+        }
+      ],
+      "cacheExpire": "2020-08-09T16:07:03Z"
+    },
+    "featured-islands": {
+      "states": [
+        {
+          "validFrom": "2020-08-09T14:07:03Z",
+          "activeEvents": [],
+          "state": {
+            "islandCodes": [
+              "8755-7564-7913",
+              "9464-5951-7419",
+              "1315-0531-5954",
+              "7131-1256-6889",
+              "9562-2424-7221",
+              "4484-4147-7979?v=28"
+            ],
+            "playlistCuratedContent": {},
+            "playlistCuratedHub": {
+              "Playlist_PlaygroundV2": "0214-4254-7083",
+              "Playlist_Creative_PlayOnly": "0214-4254-7083"
+            },
+            "islandTemplates": [
+              "0000-0000-0106",
+              "0000-0000-0113",
+              "0000-0000-0110",
+              "0000-0000-0109",
+              "0000-0000-0107",
+              "0000-0000-0112"
+            ]
+          }
+        }
+      ],
+      "cacheExpire": "2020-08-09T16:07:03Z"
+    },
+    "community-votes": {
+      "states": [
+        {
+          "validFrom": "2020-08-09T14:07:03Z",
+          "activeEvents": [],
+          "state": {
+            "electionId": "",
+            "candidates": [],
+            "electionEnds": "9999-12-31T23:59:59.999Z",
+            "numWinners": 1
+          }
+        }
+      ],
+      "cacheExpire": "2020-08-09T16:07:03Z"
+    },
+    "client-events": {
+      "states": [
+        {
+          "validFrom": "2020-08-09T14:07:03Z",
+          "activeEvents": [
+            {
+              "eventType": "EventFlag.BBPromo.Quests",
+              "activeUntil": "2090-02-14T00:00:00Z",
+              "activeSince": "2019-11-19T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LobbySeason13",
+              "activeUntil": "2020-09-29T14:00:00Z",
+              "activeSince": "2020-06-14T13:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveIceStorms",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-20T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.ActiveFireStorms",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-20T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveLightningStorms",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-20T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.PassiveMiniBosses",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-20T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.MissionAlert.MegaAlert",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-20T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-29T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-29T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.YarrrTwo",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-06-29T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests.1020",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-07-25T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LobbyStW.RoadTrip",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-07-25T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Phoenix.RoadTrip",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-07-28T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Phoenix.RoadTrip.Quests",
+              "activeUntil": "2020-09-05T00:00:00Z",
+              "activeSince": "2020-07-28T00:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LTE_AncAQuests",
+              "activeUntil": "2020-08-27T08:00:00Z",
+              "activeSince": "2020-08-01T07:00:00Z"
+            },
+            {
+              "eventType": "WL0",
+              "activeUntil": "2020-09-14T07:00:00Z",
+              "activeSince": "2020-08-01T07:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.LTE_CorBQuests_Part3 ",
+              "activeUntil": "2020-08-27T08:00:00Z",
+              "activeSince": "2020-08-04T08:00:00Z"
+            },
+            {
+              "eventType": "EventFlag.Mayday.Quests.Phase6",
+              "activeUntil": "2020-08-15T00:00:00Z",
+              "activeSince": "2020-08-08T00:00:00Z"
+            }
+          ],
+          "state": {
+            "activeStorefronts": [],
+            "eventNamedWeights": {},
+            "activeEvents": [
+              {
+                "instanceId": "1v1idtn83g7afrp7u7n42ofbvl[2]0",
+                "devName": "Event_AncAQuests",
+                "eventName": "CalendarEvent_Season13_AncAQuests  ",
+                "eventStart": "2020-08-01T07:00:00Z",
+                "eventEnd": "2020-08-27T08:00:00Z",
+                "eventType": "EventFlag.LTE_AncAQuests  "
+              },
+              {
+                "instanceId": "3m8atsq5p9t4049fa43pi16dt4[2]0",
+                "devName": "Event_CorBQuests_Part3",
+                "eventName": "CalendarEvent_Season13_CorBQuests_Part3 ",
+                "eventStart": "2020-08-04T08:00:00Z",
+                "eventEnd": "2020-08-27T08:00:00Z",
+                "eventType": "EventFlag.LTE_CorBQuests_Part3 "
+              }
+            ],
+            "seasonNumber": 13,
+            "seasonTemplateId": "AthenaSeason:athenaseason13",
+            "matchXpBonusPoints": 0,
+            "eventPunchCardTemplateId": "",
+            "seasonBegin": "2020-06-14T13:00:00Z",
+            "seasonEnd": "2020-09-29T14:00:00Z",
+            "seasonDisplayedEnd": "2020-07-23T04:00:00Z",
+            "weeklyStoreEnd": "2020-08-10T00:00:00Z",
+            "stwEventStoreEnd": "2020-09-05T00:00:00.000Z",
+            "stwWeeklyStoreEnd": "2020-08-13T00:00:00.000Z",
+            "dailyStoreEnd": "2020-08-10T00:00:00Z"
+          }
+        }
+      ],
+      "cacheExpire": "2020-08-09T16:07:03Z"
+    }
+  },
+  "eventsTimeOffsetHrs": 0.0,
+  "cacheIntervalMins": 15.0,
+  "currentTime": "2020-08-09T14:22:41Z"
+}

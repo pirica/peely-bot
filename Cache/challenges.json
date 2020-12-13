@@ -1,0 +1,1343 @@
+{
+  "weeks": {
+    "1": {
+      "week": "1",
+      "name": "Week 1 Epic Quests",
+      "color": "",
+      "image": null,
+      "rewards": {
+        "normal": []
+      },
+      "challenges": [
+        {
+          "title": "Discover POI's",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_VR_Q01",
+          "sub_challenge": {
+            "title": "Talk to a character",
+            "progress_total": 3,
+            "xp": 0,
+            "quest_id": "Quest_S15_W1_VR_Q02",
+            "sub_challenge": {
+              "title": "Collect Bars",
+              "progress_total": 500,
+              "xp": 0,
+              "quest_id": "Quest_S15_W1_VR_Q03",
+              "sub_challenge": null
+            }
+          },
+          "reward": null,
+          "prestige": false
+        },
+        {
+          "title": "Shotgun eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 3,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_VR_Q04",
+          "sub_challenge": {
+            "title": "Assault Rifle damage",
+            "progress_total": 500,
+            "xp": 0,
+            "quest_id": "Quest_S15_W1_VR_Q05",
+            "sub_challenge": {
+              "title": "Sniper Rifle elimination from 150m",
+              "progress_total": 1,
+              "xp": 0,
+              "quest_id": "Quest_S15_W1_VR_Q06",
+              "sub_challenge": {
+                "title": "Explosive damage to structures",
+                "progress_total": 1000,
+                "xp": 0,
+                "quest_id": "Quest_S15_W1_VR_Q07",
+                "sub_challenge": null
+              }
+            }
+          },
+          "reward": null,
+          "prestige": false
+        }
+      ]
+    },
+    "2": {
+      "week": "2",
+      "name": "Week 2 Epic Quests",
+      "color": "",
+      "image": null,
+      "rewards": {
+        "normal": []
+      },
+      "challenges": [
+        {
+          "title": "Destroy mailboxes",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 5,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_VR_Q01",
+          "sub_challenge": {
+            "title": "Plant the evidence in Catty Corner or Flush Factory",
+            "progress_total": 1,
+            "xp": 0,
+            "quest_id": "Quest_S15_W2_VR_Q02",
+            "sub_challenge": {
+              "title": "Find clues in Pleasant Park, Holly Hedges, and Lazy Lake",
+              "progress_total": 1,
+              "xp": 0,
+              "quest_id": "Quest_S15_W2_VR_Q03",
+              "sub_challenge": {
+                "title": "Destroy dog houses",
+                "progress_total": 3,
+                "xp": 0,
+                "quest_id": "Quest_S15_W2_VR_Q04",
+                "sub_challenge": null
+              }
+            }
+          },
+          "reward": null,
+          "prestige": false
+        },
+        {
+          "title": "Find car parts",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_VR_Q05",
+          "sub_challenge": {
+            "title": "Deliver a vehicle from Steamy Stacks to Pleasant Park",
+            "progress_total": 1,
+            "xp": 0,
+            "quest_id": "Quest_S15_W2_VR_Q06",
+            "sub_challenge": {
+              "title": "Drive through flaming rings",
+              "progress_total": 1,
+              "xp": 0,
+              "quest_id": "Quest_S15_W2_VR_Q07",
+              "sub_challenge": null
+            }
+          },
+          "reward": null,
+          "prestige": false
+        }
+      ]
+    }
+  },
+  "seasonWeeks": [
+    "1",
+    "2"
+  ],
+  "limited_time": {
+    "current": null,
+    "finished": []
+  },
+  "other": [
+    {
+      "name": "Legendary Quests",
+      "tags": [
+        "Quest.Metadata.GroupChallenge",
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 5,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_SR_Q02a",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_SR_Q01b",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 15,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_SR_Q01c",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 20,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_SR_Q01d",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W1_SR_Q01e",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Legendary Quests",
+      "tags": [
+        "Quest.Metadata.PartyAssist",
+        "Quest.Metadata.GroupChallenge",
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Damage with Legendary Weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_SR_Q01a",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage with Legendary Weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 3000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_SR_Q01b",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage with Legendary Weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 4500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_SR_Q01c",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage with Legendary Weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 6000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_SR_Q01d",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage with Legendary Weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 7500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_W2_SR_Q01e",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Catch Fish",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Catch Fish",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 3,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CatchFish_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Catch Fish",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 15,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CatchFish_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Catch Fish",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CatchFish_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Catch Fish",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 125,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CatchFish_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Catch Fish",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CatchFish_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Collect Bars",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Collect Bars",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CollectGold_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Collect Bars",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 2500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CollectGold_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Collect Bars",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CollectGold_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Collect Bars",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CollectGold_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Collect Bars",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CollectGold_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Complete bounties",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 5,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CompleteBounties_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CompleteBounties_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CompleteBounties_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 75,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CompleteBounties_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Bounties",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_CompleteBounties_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Complete Common Quests",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Common Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_CQuest_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Common Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_CQuest_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Common Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_CQuest_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Common Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_CQuest_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Common Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_CQuest_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Complete Epic Quests",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Epic Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 5,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_EQuest_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Epic Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_EQuest_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Epic Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_EQuest_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Epic Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_EQuest_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Epic Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 75,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_EQuest_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Complete Legendary Quests",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Legendary Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 3,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_LQuest_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Legendary Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_LQuest_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Legendary Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 20,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_LQuest_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Legendary Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 40,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_LQuest_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Legendary Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 60,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_LQuest_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Complete Rare Quests",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Rare Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_RQuest_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Rare Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_RQuest_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Rare Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_RQuest_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Rare Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_RQuest_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Rare Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 200,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_RQuest_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Complete Uncommon Quests",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Complete Uncommon Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_UCQuest_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Uncommon Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_UCQuest_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Uncommon Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_UCQuest_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Uncommon Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_UCQuest_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Complete Uncommon Quests",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Complete_UCQuest_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Damage to Vehicles with a player inside",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Damage to Vehicles with a Player inside",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Damage_PlayerVehicle_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage to Vehicles with a Player inside",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Damage_PlayerVehicle_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage to Vehicles with a Player inside",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 5000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Damage_PlayerVehicle_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage to Vehicles with a Player inside",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Damage_PlayerVehicle_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage to Vehicles with a Player inside",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 20000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Damage_PlayerVehicle_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Damage opponents",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Damage Opponents",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 5000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Dmg_Opponents_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage Opponents",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Dmg_Opponents_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage Opponents",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 75000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Dmg_Opponents_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage Opponents",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 15000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Dmg_Opponents_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Damage Opponents",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 500000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Dmg_Opponents_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Destroy Shrubs",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Destroy shrubs",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyShrubs_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy shrubs",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyShrubs_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy shrubs",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyShrubs_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy shrubs",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyShrubs_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy shrubs",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyShrubs_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Destroy Stones",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Destroy stones",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyStones_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy stones",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyStones_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy stones",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyStones_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy stones",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyStones_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Destroy stones",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_DestroyStones_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Destroy Trees",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Chop Down Trees",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Destroy_Trees_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Chop Down Trees",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Destroy_Trees_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Chop Down Trees",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 250,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Destroy_Trees_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Chop Down Trees",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Destroy_Trees_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Chop Down Trees",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 2500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Destroy_Trees_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Distance travelled on foot",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Distance travelled on foot",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_TravelDistance_OnFoot_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Distance travelled on foot",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 2500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_TravelDistance_OnFoot_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Distance travelled on foot",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_TravelDistance_OnFoot_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Distance travelled on foot",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_TravelDistance_OnFoot_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Distance travelled on foot",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 50000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_TravelDistance_OnFoot_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Eliminations from 150 meters or more",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Eliminate opponents from 150m",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_150m_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminate opponents from 150m",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_150m_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminate opponents from 150m",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_150m_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminate opponents from 150m",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_150m_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminate opponents from 150m",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_150m_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Eliminations with Assault Rifles",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Assault Rifle eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Assault_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Assault Rifle eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Assault_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Assault Rifle eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Assault_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Assault Rifle eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Assault_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Assault Rifle eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Assault_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Eliminations with common or uncommon weapons",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Eliminations with common or uncommon weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 2,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Common_Uncommon_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminations with common or uncommon weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Common_Uncommon_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminations with common or uncommon weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Common_Uncommon_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminations with common or uncommon weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 75,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Common_Uncommon_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Eliminations with common or uncommon weapons",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 125,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Common_Uncommon_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    },
+    {
+      "name": "Eliminations with Explosives",
+      "tags": [
+        "ChallengeCategory.XP",
+        "Quest.Metadata.HideForContextualQuestDisplay"
+      ],
+      "color": "",
+      "challenges": [
+        {
+          "title": "Explosives eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 10,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Explosive_Q01",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Explosives eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 25,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Explosive_Q02",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Explosives eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 100,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Explosive_Q03",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Explosives eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 500,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Explosive_Q04",
+          "sub_challenge": null,
+          "reward": null
+        },
+        {
+          "title": "Explosives eliminations",
+          "stars": 0,
+          "xp": 0,
+          "progress_total": 1000,
+          "party_assist": false,
+          "quest_id": "Quest_S15_Milestone_Elim_Explosive_Q05",
+          "sub_challenge": null,
+          "reward": null
+        }
+      ]
+    }
+  ]
+}
