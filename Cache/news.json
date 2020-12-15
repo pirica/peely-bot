@@ -1,0 +1,75 @@
+{
+  "status": 200,
+  "message": "Everything should work fine",
+  "data": {
+    "br": {
+      "image": "https://api.peely.de/cdn/current/brnews_en.gif",
+      "motds": [
+        {
+          "image": "https://cdn2.unrealengine.com/15br-kaneandcutiepie-motd-1920x1080-1920x1080-f63d6c182bf1.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/15br-kaneandcutiepie-motd-1024x512-1024x512-e238edada352.jpg",
+          "title": "Nightmare Yule Set",
+          "body": "They may look sweet, but turn on these minty monsters and you'll face a swift stab in the back.",
+          "id": "Nightmare Yule Set",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/reboot-motd-1920x1080-1920x1080-24557da88d83.jpg",
+          "tileImage": "https://cdn2.unrealengine.com/reboot-motd-1024x512-1024x512-8903d0d74d94.jpg",
+          "title": "Reboot A Friend Beta",
+          "body": "Sign up for the Reboot A Friend Beta, play matches with your friends, and unlock free rewards! Learn more at fn.gg/rebootafriend",
+          "id": "Reboot A Friend Beta",
+          "spotlight": false
+        }
+      ],
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+          "messagetype": "normal",
+          "title": "Keep Your Account Secure",
+          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+          "spotlight": false
+        }
+      ]
+    },
+    "creative": {
+      "image": "https://api.peely.de/cdn/current/creativenews_en.gif",
+      "motds": [],
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+          "messagetype": "normal",
+          "title": "Keep Your Account Secure",
+          "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+          "spotlight": false
+        }
+      ]
+    },
+    "stw": {
+      "image": "https://api.peely.de/cdn/unique/stwnews_en.gif",
+      "messages": [
+        {
+          "image": "https://cdn2.unrealengine.com/stw07-motd-cocoa-45-1024x512-558827623.jpg",
+          "adspace": "EVENT STORE!",
+          "title": "Cocoa .45",
+          "body": "The hottest of Silenced pistols is returning. These projectiles are off the wall!",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/stw07-motd-icequeen-1024x512-558827699.jpg",
+          "adspace": "EVENT STORE!",
+          "title": "Ice Queen",
+          "body": "Freeze your foes in their tracks with an icy welcome. Use Seismic Smash to freeze enemies with Ice Queen!",
+          "spotlight": false
+        },
+        {
+          "image": "https://cdn2.unrealengine.com/11stw-jinglejess-motd-1024x512-558827587.jpg",
+          "adspace": "Seasonal Event",
+          "title": "New Wave Holiday",
+          "body": "The horde is getting restless and the waves keep coming! Eliminate them all to advance, but be warned, there’s snowhere to hide.",
+          "spotlight": false
+        }
+      ]
+    }
+  }
+}
