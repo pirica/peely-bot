@@ -63,8 +63,7 @@ class shop(commands.Cog):
             user.commit()
             for i in data:
                 embed = discord.Embed(color=0x009EFF)
-                embed.set_author(name=f"Item Shop from {now}", icon_url="https://fortnite-api.com/assets/img"
-                                                                        "/logo_small_128.png",
+                embed.set_author(name=f"Item Shop from {now}", icon_url="https://fortnite-api.com/assets/img/logo_small_128.png",
                                  url=f"https://peely.de/")
                 embed.set_image(url=f"{Store['uniqueurl']}")
                 try:

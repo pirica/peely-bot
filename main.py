@@ -27,7 +27,8 @@ def get_prefix(client, message):
     return ">"
 
 
-intents = discord.Intents.all()
+intents = discord.Intents.default()
+intents.all()
 
 client = commands.Bot(command_prefix=get_prefix, activity=discord.Game(">help | https://peely.de"), intents=intents)
 client.remove_command("help")
