@@ -1,2 +1,4 @@
 
 SECRETS.py
+*.xml
+*.iml
