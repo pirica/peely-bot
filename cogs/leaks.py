@@ -51,8 +51,9 @@ class leaks(commands.Cog):
             if SETTINGS.test is True:
                 print("TEST MODUS LEAKS")
                 return
-            await self.post_leak(embed=discord.Embed(color=SETTINGS.embedcolor, title=f"New Cosmetics detected!"),
-                                 url=Leaks["uniqueurl"])
+            embed = discord.Embed(color=SETTINGS.embedcolor, title=f"New Cosmetics detected!")
+            embed.set_image(url=Leaks['uniqueurl'])
+            await self.post_leak(embed=embed, url=Leaks["uniqueurl"])
 
     async def post_leak(self, embed: discord.Embed, url: str):
         temp = await sql.c()

@@ -464,7 +464,7 @@ class utility(commands.Cog):
             try:
                 await channel.send(embed=embed)
             except:
-                pass
+                continue
 
     @commands.command(hidden=True, usage="Send a Text to all News channels")
     @commands.is_owner()
