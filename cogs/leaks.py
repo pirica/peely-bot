@@ -51,11 +51,10 @@ class leaks(commands.Cog):
             if SETTINGS.test is True:
                 print("TEST MODUS LEAKS")
                 return
-            embed = discord.Embed(color=SETTINGS.embedcolor, title=f"New Cosmetics detected!")
-            embed.set_image(url=Leaks['uniqueurl'])
-            await self.post_leak(embed=embed, url=Leaks["uniqueurl"])
 
-    async def post_leak(self, embed: discord.Embed, url: str):
+            await self.post_leak(url=Leaks['uniqueurl'])
+
+    async def post_leak(self, url: str):
         temp = await sql.c()
         myuser = temp[0]
         mydb = temp[1]
@@ -69,6 +68,7 @@ class leaks(commands.Cog):
             channel = guild.get_channel(g[1])
             if channel:
                 try:
+                    embed = discord.Embed(color=SETTINGS.embedcolor, title=f"New Cosmetics detected!")
                     embed.set_image(url=url)
                     msg = await channel.send(embed=embed)
                     await mydb.execute("INSERT INTO lastleaks VALUE (%s, %s)", (channel.id, msg.id,))
